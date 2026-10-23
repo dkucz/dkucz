@@ -30,7 +30,7 @@ Repository intelligence for LLM agents. It combines deterministic code indexing 
 Scans job-application emails, extracts structured details with the Gemini API, and records them in Google Sheets. It runs automatically every day through GitHub Actions, triggered by a Google Apps Script.
 - **Stack:** Python, Gemini API, Google APIs, GitHub Actions
 
-### Soothsayer
+### [Soothsayer](https://justcookiedough.itch.io/soothsayer)
 A tarot-reading game built in Unity with a nine-person interdisciplinary team over 11 weeks. I designed gameplay and narrative systems, built a player statistics tracker, and used playtesting data to balance difficulty and scoring.
 - **Stack:** Unity, C#
 
