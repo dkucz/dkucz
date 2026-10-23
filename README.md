@@ -4,13 +4,13 @@ Computer Science and Cognitive Science graduate from the **University of Toronto
 
 <!-- CHECK: add a line here if you want, e.g. "Currently looking for new grad software engineering / AI roles." -->
 
-📍 Toronto, Canada · 🗣️ English, Polish (native) · Japanese (conversational)
+📍 Toronto, Canada 
 
 [LinkedIn](https://linkedin.com/in/dominik-kucz) · [Portfolio](https://dkucz.github.io) · [Email](mailto:kuczdominik@gmail.com)
 
 ---
 
-## 🔭 What I've been working on
+## What I've been working on
 
 - **Context Graph:** a repository memory system for coding agents, built with a team of 4 to cut token usage and improve multi-hop retrieval in large codebases
 - **Job Application Email Tracker:** an automated tool that reads job-related emails, uses Gemini to extract the details, and logs them to a Google Sheet on a daily schedule
